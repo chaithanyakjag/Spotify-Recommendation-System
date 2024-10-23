@@ -1,6 +1,6 @@
 # Spotify-Recommendation-System
 
-## Overview
+## Introduction
 This recommendation system is designed to help users discover songs similar to their existing playlist preferences. The system analyzes song attributes (e.g., genres, release dates) and creates feature vectors to represent each song. It then uses **cosine similarity** to compare these vectors with the user's playlist and recommends songs that have the highest similarity scores. The entire system is built to handle large datasets efficiently, utilizing techniques like **batch processing** and **feature normalization** to ensure performance and scalability.
 
 ## Project Overview
