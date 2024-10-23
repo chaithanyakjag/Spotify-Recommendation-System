@@ -34,7 +34,7 @@ This recommendation system is designed to help users discover songs similar to t
    - Recommend songs based on their similarity scores, focusing on songs that are most similar to the user’s existing preferences.
 
 ## Recommendations Generation
-1. **Batch Processing:**
-   - To handle large datasets, process recommendations in batches to optimize memory usage.
-2. **Top-K Recommendations:**
+**Top-K Recommendations:**
    - Select the top-K songs with the highest cosine similarity scores as recommendations.
+  
+Link to the dataset - https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks
